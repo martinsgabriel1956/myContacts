@@ -5,6 +5,9 @@
   "repository": "git@github.com:martinsgabriel1956/myContacts.git",
   "author": "Gabriel Martins <martinsgabriel@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node --watch ./src/index.js"
+  },
   "dependencies": {
     "express": "^4.18.2"
   }
