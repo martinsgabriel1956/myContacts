@@ -1,0 +1,8 @@
+{
+  "name": "mycontacts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:martinsgabriel1956/myContacts.git",
+  "author": "Gabriel Martins <martinsgabriel@gmail.com>",
+  "license": "MIT"
+}
